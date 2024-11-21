@@ -1,1 +1,1 @@
-Anonymized Repository for Point2Primitive for review
+Anonymized Repository for Point2Primitive for blind review
